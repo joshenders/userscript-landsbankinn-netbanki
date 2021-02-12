@@ -2,7 +2,7 @@
 // @name         Landsbankinn Netbanki Safari Autofill Fixer
 // @description  Removes the hide/show elements from Netbanki login fields to allow Safari autofill
 // @namespace    https://joshenders.com
-// @version      v1.0.1
+// @version      1.0.1
 // @author       Josh Enders <josh.enders@gmail.com>
 // @updateURL    https://raw.githubusercontent.com/joshenders/userscript-landsbankinn-netbanki/master/landsbankinn-netbanki.user.js
 // @downloadURL  https://raw.githubusercontent.com/joshenders/userscript-landsbankinn-netbanki/master/landsbankinn-netbanki.user.js
